@@ -17,7 +17,7 @@ Check out the [post](https://testdriven.io/blog/django-custom-user-model/).
 
     ```sh
     $ python3 -m venv env && source env/bin/activate
-    (env)$ pip install Django==4.1.5
+    (env)$ pip install Django
     (env)$ python manage.py makemigrations
     (env)$ python manage.py migrate
     (env)$ python manage.py runserver
